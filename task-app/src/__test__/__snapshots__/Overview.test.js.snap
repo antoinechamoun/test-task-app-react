@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form Component renders an empty task initially 1`] = `
+<div>
+  <form>
+    <input
+      data-testid="input-value"
+      type="text"
+      value=""
+    />
+    <button
+      type="submit"
+    >
+      Add new task
+    </button>
+  </form>
+  <div
+    data-testid="tasks-container"
+  />
+</div>
+`;
